@@ -3,7 +3,7 @@ This project is a bash script that makes it easy to
 manage your docker containers for local CMS (Drupal, 
 Wordpress, etc) development.
 
-Coming soon: [vesl.sh](http://vesl.sh)
+**Website:** [vesl.sh](http://vesl.sh)
 
 ## Getting started
 To test this project out locally you can clone it
